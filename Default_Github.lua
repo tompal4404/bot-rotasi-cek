@@ -24,7 +24,7 @@ ip_add = {
     "192.168.0.7"
 }
 
-hookURL = "Hook URL Kalian"
+hookURL = ""
 
 Teks_Deskripsi = "List Nick Para Babu"
 Teks_Footer = "Golek Duit Kanggo Masa Depan"
