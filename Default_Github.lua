@@ -24,7 +24,7 @@ ip_add = {
     "192.168.0.7"
 }
 
-hookURL = ""
+hookURL = "https://discord.com/api/webhooks/1034865703863455836/zmETFKC_BCgB9BQPB77tpV8Im8AY_p7IFqh2atwdt9qUriwbT69B9XlqYnhTP36ykgG-"
 
 Teks_Deskripsi = "List Nick Para Babu"
 Teks_Footer = "Golek Duit Kanggo Masa Depan"
