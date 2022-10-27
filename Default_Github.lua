@@ -1,5 +1,5 @@
 Rdp = {
-    {nordp = 1, botname = "Bot1", Status = "Nonaktif"},
+    {nordp = 1, botname = "ipan123", Status = "Nonaktif"},
     {nordp = 1, botname = "Bot1", Status = "Nonaktif"},
     {nordp = 2, botname = "Bot2", Status = "Nonaktif"},
     {nordp = 2, botname = "Bot2", Status = "Nonaktif"},
